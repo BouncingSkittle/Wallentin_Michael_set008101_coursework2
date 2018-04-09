@@ -1,0 +1,15 @@
+{
+  "name": "nodekb",
+  "version": "1.0.0",
+  "description": "Blog",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Mishi",
+  "license": "ISC",
+  "dependencies":{
+
+
+  }
+}
